@@ -28,4 +28,4 @@
   <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 </div><br/>
 
-![snake gif](https://github.com/lucasnsouzaa/lucasnsouzaa/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/lucasnsouzaa/lucasnsouzaa/blob/output/github-contribution-grid-snake.svg)
