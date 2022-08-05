@@ -2,6 +2,7 @@
 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-souza-67281a126/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucasnunes475@gmail.com)
 
 - Apaixonado por tecnologia e por mudar a vida das pessoas através da programação.
 - Atualmente procurando emprego na áreas de desenvolvimento.
